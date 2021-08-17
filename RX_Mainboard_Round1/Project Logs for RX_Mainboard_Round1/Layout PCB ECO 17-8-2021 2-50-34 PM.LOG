@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetJ5_6 Pin=J5-6
+Added Pin To Net: NetName=NetJ5_6 Pin=P4-6
+Added Net: Name=NetJ5_6
+Added Pin To Net: NetName=PIO1 Pin=J6-24
+Added Pin To Net: NetName=PIO1 Pin=P5-24
+Added Pin To Net: NetName=PIO1 Pin=R7-1
+Added Net: Name=PIO1

@@ -1,0 +1,15 @@
+Added Component: Designator=TP1(Test Point)
+Added Component: Designator=TP2(Test Point)
+Added Component: Designator=TP3(Test Point)
+Added Component: Designator=TP4(Test Point)
+Added Component: Designator=TP5(Test Point)
+Added Pin To Net: NetName=NetIC1_2 Pin=TP1-1
+Added Pin To Net: NetName=NetD2_1 Pin=TP2-1
+Added Pin To Net: NetName=AFE_output Pin=TP3-1
+Added Pin To Net: NetName=NetC7_2 Pin=TP4-1
+Added Pin To Net: NetName=NetIC2_2 Pin=TP5-1
+Added Member To Class: ClassName=Schematics Member=Component TP1 TP
+Added Member To Class: ClassName=Schematics Member=Component TP2 TP
+Added Member To Class: ClassName=Schematics Member=Component TP3 TP
+Added Member To Class: ClassName=Schematics Member=Component TP4 TP
+Added Member To Class: ClassName=Schematics Member=Component TP5 TP
