@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=3V3 Pin=C6-2
+Removed Pin From Net: NetName=3V3 Pin=IC2-7
+Removed Pin From Net: NetName=AFE_output Pin=R7-2
+Added Component: Designator=C12(0603)
+Added Component: Designator=IC3(SOT-23-5)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "595-SN74LV1T32DBVRG4"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=3V3 Pin=C12-2
+Added Pin To Net: NetName=5V Pin=IC2-7
+Added Pin To Net: NetName=AFE_output Pin=IC3-1
+Added Pin To Net: NetName=GND Pin=IC3-2
+Added Pin To Net: NetName=GND Pin=IC3-3
+Added Pin To Net: NetName=3V3 Pin=IC3-5
+Added Pin To Net: NetName=NetIC3_4 Pin=IC3-4
+Added Pin To Net: NetName=NetIC3_4 Pin=R7-2
+Added Net: Name=NetIC3_4
+Added Member To Class: ClassName=Schematics Member=Component C12 0.1uF
+Added Member To Class: ClassName=Schematics Member=Component IC3 SN74LV1T32DBVRG4
+Added Room: Name=Schematics
